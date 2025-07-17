@@ -1,0 +1,45 @@
+{
+  "APP":{
+    "NAME" : "Notes Application",
+    "ARCHIVE" : "Archived"
+  },
+  "SEARCH": {
+    "ACTIVE": "Active Notes",
+    "PLACEHOLDER": "Search by title...",
+    "ARCHIVE":"Archive Notes"
+  },
+  "AUTH": {
+    "LOGINHEADER": "Please log in to use the application.",
+    "REGISTERHEADER" : "Fill in the form to sign up.",
+    "NAME": "Name",
+    "LOGIN": "Login",
+    "LOGOUT": "Logout",
+    "REGISTER": "Register"
+  },
+  "NOTE": {
+    "LOADING":"Loading..",
+    "CREATE": "Create new note",
+    "FORM": {
+      "TITLE": "Note title",
+      "DESCRIPTION": "Note description...",
+      "BODY": "Write your note here...",
+      "SAVE": "Save note",
+      "CLEAR": "Clear",
+      "CANCEL": "Cancel"
+    },
+    "ALL": {
+      "TITLE": "All notes",
+      "EMPTY": "There are no active notes yet"
+    },
+    "ARCHIVE": {
+      "TITLE": "Archived notes",
+      "EMPTY": "There are no archived notes yet"
+    },
+    "DETAIL": {
+      "EMPTY": {
+        "TITLE": "There is no selected note",
+        "DESCRIPTION": "Please select one of the notes to view"
+      }
+    }
+  }
+}

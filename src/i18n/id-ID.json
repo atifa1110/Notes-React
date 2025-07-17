@@ -1,0 +1,45 @@
+{
+  "APP":{
+    "NAME" : "Aplikasi Catatan",
+    "ARCHIVE" : "Terarsip"
+  },
+  "SEARCH": {
+    "ACTIVE": "Catatan Aktif",
+    "PLACEHOLDER": "Cari bersadarkan judul...",
+    "ARCHIVE":"Catatan Arsip"
+  },
+  "AUTH": {
+    "LOGINHEADER": "Yuk, login untuk menggunakan aplikasi.",
+    "REGISTERHEADER" : "Isi form untuk mendaftar akun.",
+    "NAME": "Nama",
+    "LOGIN": "Masuk",
+    "LOGOUT": "Keluar",
+    "REGISTER": "Daftar"
+  },
+  "NOTE": {
+    "LOADING":"Memuat..",
+    "CREATE": "Buat catatan baru",
+    "FORM": {
+      "TITLE": "Judul catatan",
+      "DESCRIPTION": "Deskripsi catatan...",
+      "BODY": "Tulis catatan mu disini...",
+      "SAVE": "Simpan catatan",
+      "CLEAR": "Bersihkan",
+      "CANCEL": "Batal"
+    },
+    "ALL": {
+      "TITLE": "Semua catatan",
+      "EMPTY": "Belum ada catatan aktif"
+    },
+    "ARCHIVE": {
+      "TITLE": "Arsip",
+      "EMPTY": "Belum ada catatan yang diarsipkan"
+    },
+    "DETAIL": {
+      "EMPTY": {
+        "TITLE": "Belum ada catatan yang di pilih",
+        "DESCRIPTION": "Silakan pilih salah satu catatan untuk dilihat"
+      }
+    }
+  }
+}
